@@ -73,7 +73,7 @@ Add sound effects and animations
 
 ##Screenshot Section
 ![Turtle Race Screenshot](https://github.com/Charan-S578/TurtleRaceGame/blob/main/Screenshot%202026-05-17%20132749.png?raw=true)
-![Turtle Race Screenshot]()
+![Turtle Race Screenshot](https://github.com/Charan-S578/TurtleRaceGame/blob/main/Screenshot%202026-05-17%20132841.png?raw=true)
 
 
 
